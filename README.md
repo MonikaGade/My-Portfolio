@@ -7,7 +7,7 @@
 </ul>
   <p>Created a responsive portfolio</p>
 <fieldset>
-  <caption>Photos</caption>
+  <legend>Photos</legend>
    <h4>For Desktop Screens</h4>
   <img src="https://github.com/MonikaGade/My-Portfolio/assets/144129444/f871ea49-a176-420f-ab12-cd168ae76374" width="300">
   <img src="https://github.com/MonikaGade/My-Portfolio/assets/144129444/a2ce6e6a-5620-4db1-8640-b2fbd06cae13" width="300">
